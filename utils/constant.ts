@@ -4,6 +4,7 @@ export enum URLPaths {
   REGISTER = "/signup",
   India = "/india",
   Reviews = "/reviews",
+  News = "/news",
   Trending = "/trending",
   Sports = "/sports",
   LifeStyle = "/lifestyle",

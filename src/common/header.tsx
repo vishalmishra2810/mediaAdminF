@@ -5,7 +5,7 @@ import { Header_Links } from "@/Links/links";
 
 const Header = () => {
   return (
-    <div className="bg-[#e44d3b] headerWidth">
+    <div className="bg-[#3d40ce] headerWidth">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo with the Image component */}
         <div className="flex items-center">
